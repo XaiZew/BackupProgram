@@ -1,0 +1,53 @@
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\.vscode already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\bin already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\obj already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\OriginalFolder already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\TargetFolder already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\bin\Debug already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\obj\Debug already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\OriginalFolder\directory1 already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\TargetFolder\directory1 already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\bin\Debug\net6.0 already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\obj\Debug\net6.0 already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\OriginalFolder\directory1\directory2 already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\TargetFolder\directory1\directory2 already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\bin\Debug\net6.0\ref already exists
+[25/02/2022 02:28:34] Directory Z:\BackupProgram\obj\Debug\net6.0\ref already exists
+[25/02/2022 02:28:34] UpdatedBackupProgram.csproj
+[25/02/2022 02:28:34] UpdatedProgram.cs
+[25/02/2022 02:28:34] UpdatedSyncProgram.exe
+[25/02/2022 02:28:34] Updatedlaunch.json
+[25/02/2022 02:28:34] Updatedtasks.json
+[25/02/2022 02:28:34] UpdatedBackupProgram.csproj.nuget.dgspec.json
+[25/02/2022 02:28:34] UpdatedBackupProgram.csproj.nuget.g.props
+[25/02/2022 02:28:34] UpdatedBackupProgram.csproj.nuget.g.targets
+[25/02/2022 02:28:34] Updatedproject.assets.json
+[25/02/2022 02:28:34] Updatedproject.nuget.cache
+[25/02/2022 02:28:34] Updatedtest.txt
+[25/02/2022 02:28:34] Updatedtest2.txt
+[25/02/2022 02:28:34] Updatedtest.txt
+[25/02/2022 02:28:34] Updatedtest2.txt
+[25/02/2022 02:28:34] Updatednestedfile.txt
+[25/02/2022 02:28:34] Updatednestedfile.txt
+[25/02/2022 02:28:34] UpdatedBackupProgram.deps.json
+[25/02/2022 02:28:34] UpdatedBackupProgram.dll
+[25/02/2022 02:28:34] UpdatedBackupProgram.exe
+[25/02/2022 02:28:34] UpdatedBackupProgram.pdb
+[25/02/2022 02:28:34] UpdatedBackupProgram.runtimeconfig.json
+[25/02/2022 02:28:34] Updated.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+[25/02/2022 02:28:34] Updatedapphost.exe
+[25/02/2022 02:28:34] UpdatedBackupProgram.AssemblyInfo.cs
+[25/02/2022 02:28:35] UpdatedBackupProgram.AssemblyInfoInputs.cache
+[25/02/2022 02:28:35] UpdatedBackupProgram.assets.cache
+[25/02/2022 02:28:35] UpdatedBackupProgram.csproj.AssemblyReference.cache
+[25/02/2022 02:28:35] UpdatedBackupProgram.csproj.CoreCompileInputs.cache
+[25/02/2022 02:28:35] UpdatedBackupProgram.csproj.FileListAbsolute.txt
+[25/02/2022 02:28:35] UpdatedBackupProgram.dll
+[25/02/2022 02:28:35] UpdatedBackupProgram.GeneratedMSBuildEditorConfig.editorconfig
+[25/02/2022 02:28:35] UpdatedBackupProgram.genruntimeconfig.cache
+[25/02/2022 02:28:35] UpdatedBackupProgram.GlobalUsings.g.cs
+[25/02/2022 02:28:35] UpdatedBackupProgram.pdb
+[25/02/2022 02:28:35] Updatedd.txt
+[25/02/2022 02:28:35] Updatedd.txt
+[25/02/2022 02:28:35] UpdatedBackupProgram.dll
+[25/02/2022 02:28:35] UpdatedBackupProgram.dll

@@ -1,0 +1,6 @@
+[23/02/2022 18:30:04]Directory C:\Users\xaize\Documents\BackupProgram\TargetFolder\directory1 already exists
+[23/02/2022 18:30:04]Directory C:\Users\xaize\Documents\BackupProgram\TargetFolder\directory1\directory2 already exists
+[23/02/2022 18:30:04]File test.txt is outdated
+[23/02/2022 18:30:04]File test2.txt is outdated
+[23/02/2022 18:30:04]File nestedfile.txt is outdated
+[23/02/2022 18:30:04]File d.txt is outdated

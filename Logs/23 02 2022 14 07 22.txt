@@ -1,0 +1,6 @@
+Directory C:\Users\xaize\Documents\BackupProgram\TargetFolder\directory1 already exists
+Directory C:\Users\xaize\Documents\BackupProgram\TargetFolder\directory1\directory2 already exists
+Updatedtest.txt
+Updatedtest2.txt
+Updatednestedfile.txt
+Updatedd.txt

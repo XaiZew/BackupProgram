@@ -1,0 +1,2202 @@
+Z:\GameDevCourse\.obsidian
+Z:\GameDevCourse\Aseprite.v1.2.21
+Z:\GameDevCourse\Materialize_1.78
+Z:\GameDevCourse\Obsidian
+Z:\GameDevCourse\sfxr
+Z:\GameDevCourse\Stretch
+Z:\GameDevCourse\[3D][Blender]
+Z:\GameDevCourse\[Art][Anim]
+Z:\GameDevCourse\[Research]
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite
+Z:\GameDevCourse\Aseprite.v1.2.21\_Redist
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data
+Z:\GameDevCourse\Obsidian\.obsidian
+Z:\GameDevCourse\Obsidian\Notes
+Z:\GameDevCourse\Obsidian\Siktur
+Z:\GameDevCourse\[3D][Blender]\HDRI
+Z:\GameDevCourse\[3D][Blender]\Images
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78
+Z:\GameDevCourse\[3D][Blender]\Projects
+Z:\GameDevCourse\[3D][Blender]\Red-Nelb
+Z:\GameDevCourse\[3D][Blender]\Word
+Z:\GameDevCourse\[Art][Anim]\Characters
+Z:\GameDevCourse\[Art][Anim]\Composition
+Z:\GameDevCourse\[Art][Anim]\LineArt
+Z:\GameDevCourse\[Art][Anim]\New folder
+Z:\GameDevCourse\[Art][Anim]\Principles of Design
+Z:\GameDevCourse\[Art][Anim]\Proportions
+Z:\GameDevCourse\[Art][Anim]\Siktur
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Managed
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Mono
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Plugins
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Resources
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\StreamingAssets
+Z:\GameDevCourse\[3D][Blender]\Images\Posters
+Z:\GameDevCourse\[3D][Blender]\Images\Wood
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data
+Z:\GameDevCourse\[3D][Blender]\Projects\Assets
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal
+Z:\GameDevCourse\[Art][Anim]\Characters\Generic Male Model
+Z:\GameDevCourse\[Art][Anim]\Siktur\UI
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\docs
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\fonts
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\icons
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\scripts
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\strings
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\widgets
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\www
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Mono\EmbedRuntime
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Mono\etc
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Managed
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Mono
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Plugins
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Resources
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\StreamingAssets
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Barn
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\DiabloDungeon
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\FallingBalls
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\ForestEnviroment
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\LowPolyEnviroment
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\LowPolyFarm
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\LowPolyLightHouse
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\OpenWorldEnviroment
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Project Boost
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\WarHammer
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Well
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\11 minutes
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\14 minutes
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\15 minutes
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\6 minutes
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\7 minutes
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Blender Blender
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\City
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\CoffeeShop
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\FuturisticLowPolySword
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Japaneese courtyard
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\LowPolyGun
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\New folder
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\PocketWatch
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Sword
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Toby'sLabThingy
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Toilet
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Tower
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\adigunpolack-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\arne-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\aseprite-theme
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\bayer-matrices
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\davitmasia-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\dawnbringer-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\endesga-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\hardware-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\hyohnoo-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\javierguerrero-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\pico8-palette
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\pinetreepizza-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\software-palettes
+Z:\GameDevCourse\Aseprite.v1.2.21\Aseprite\data\extensions\zughy-palettes
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Mono\etc\mono
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Mono\EmbedRuntime
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Mono\etc
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Barn\Assets
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlley
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\ForestEnviroment\background.fbm
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\LowPolyFarm\Iterations
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\Siktur Characters
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturCompanion
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturScreen
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturSnapAssets
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturUI
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturWeapons
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\11 minutes\Mech
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\14 minutes\Sword
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\15 minutes\LowPolyRobot
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\15 minutes\LowPolyRobotV2
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\15 minutes\Modern House
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\7 minutes\Wendigo Sword
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics\Bedrooms
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics\Cabin
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics\Island
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics\OutsidePortal
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics\Road
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\Cabin
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\New folder\assets
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\PocketWatch\preview0001-0300
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Sword\Iron Sword
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Mono\etc\mono\1.0
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Mono\etc\mono\2.0
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Mono\etc\mono\mconfig
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Mono\etc\mono
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Barn\Assets\Textures
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlley\Assets
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlley\Refrences
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\HDRI
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Textures
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\Siktur Characters\Animals
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\Siktur Characters\MaleModels
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturSnapAssets\textures
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturUI\Buttons
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturUI\MainMenu
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturWeapons\LowPolyAK
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturWeapons\LowPolyGun
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturWeapons\LowPolyShotgun
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturWeapons\MossbergPistol
+Z:\GameDevCourse\[3D][Blender]\Projects\Blockouts\15 minutes\Modern House\References
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics\Bedrooms\BedroomV1
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics\Bedrooms\BedroomV2
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics\Bedrooms\BedroomV3
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\Isometrics\Bedrooms\Room
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_2df24746
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_4b85f272
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_4ec2a814
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_b57e7e83
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_d028c20c
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_df652ec7
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\New folder\assets\materials
+Z:\GameDevCourse\Materialize_1.78\Materialize_Data\Mono\etc\mono\2.0\Browsers
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Mono\etc\mono\1.0
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Mono\etc\mono\2.0
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Mono\etc\mono\mconfig
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlley\Assets\Textures
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Fonts
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Models
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\References
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks\_textures
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Textures\Sword
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\Siktur Characters\Animals\LowPolyDeer
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\Siktur Characters\MaleModels\Atagonist
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\Siktur Characters\MaleModels\FootRobot
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\Siktur Characters\MaleModels\GenericMaleModel
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\Siktur Characters\MaleModels\Player
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Siktur\SikturSnapAssets\textures\Tiles
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_2df24746\config
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_2df24746\data
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_4ec2a814\config
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_4ec2a814\data
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_d028c20c\config
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_d028c20c\data
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_d028c20c\guiding
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_d028c20c\mesh
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_d028c20c\noise
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\MiniWorlds\GlassBottleMiniWorld\cache_fluid_d028c20c\particles
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\New folder\assets\materials\carved_wood_00cc358c-f86d-4d4c-9fa0-9cfd1fab0c76
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\New folder\assets\materials\old_wood_11ee2193-0283-43c2-bc57-465970b08bbb
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\New folder\assets\materials\wood_dark_0cec9cd4-87d8-495d-a04c-8058cfe6d57d
+Z:\GameDevCourse\[3D][Blender]\Materialize_1.78\Materialize_Data\Mono\etc\mono\2.0\Browsers
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlley\Assets\Textures\Bamboo
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlley\Assets\Textures\Leather
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlley\Assets\Textures\Quartz
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlley\Assets\Textures\Wood
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlley\Assets\Textures\Wood2
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Bricks
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Leather
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Leather2
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Marble
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Pillow
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Planks
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Screens
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Silver Fabric
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Table
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Wood049_2K-PNG
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\BwolingAllies\BowlingAlleyV2\Assets\Textures\Wood062_2K-PNG
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks\_textures\rockA
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks\_textures\rockB
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks\_textures\rockC
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks\_textures\rockD
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\New folder\assets\materials\carved_wood_00cc358c-f86d-4d4c-9fa0-9cfd1fab0c76\textures
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\New folder\assets\materials\old_wood_11ee2193-0283-43c2-bc57-465970b08bbb\textures
+Z:\GameDevCourse\[3D][Blender]\Projects\Personal\New folder\assets\materials\wood_dark_0cec9cd4-87d8-495d-a04c-8058cfe6d57d\textures_1k
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks\_textures\rockA\_old
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks\_textures\rockB\_old
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks\_textures\rockC\_old
+Z:\GameDevCourse\[3D][Blender]\Projects\Assigned\Excalibur\Assets\Rocks\_textures\rockD\_old
+Copied Design Document.pptx
+Copied Document.docx
+Copied My Weekly Diary.docx
+Copied Notes.docx
+Copied Presentation1.pptx
+Copied Principles of Design.docx
+Copied Proportion_scale.psd
+Copied Siktur2.pptx
+Copied testplank.png
+Copied app.json
+Copied appearance.json
+Copied core-plugins.json
+Copied hotkeys.json
+Copied workspace
+Copied HOW TO RUN GAME!!.txt
+Copied Materialize.exe
+Copied settings.txt
+Copied UnityPlayer.dll
+Copied Animation Notes.md
+Copied Game Engines.md
+Copied Sotry Telling Idea.md
+Copied TO-DO.md
+Copied font.tga
+Copied ld48.tga
+Copied readme.txt
+Copied sfxr.exe
+Copied JACOBTAYLOR-Stretch Introduc-certificate.pdf
+Copied Master.docx
+Copied Untitled-1.psd
+Copied Animation Journel.pptx
+Copied First Year Games 2nd Week.docx
+Copied First Year Games 3rd Week.docx
+Copied First year games.docx
+Copied Pre-Production.pptx
+Copied The 12 Principles of Animation.pptx
+Copied ~$rst year games.docx
+Copied aseprite.exe
+Copied dxwebsetup.exe
+Copied oalinst.exe
+Copied vcredist_2015-2019_x64.exe
+Copied vcredist_2015-2019_x86.exe
+Copied vcredist_x64.exe
+Copied vcredist_x86.exe
+Copied app.info
+Copied boot.config
+Copied globalgamemanagers
+Copied globalgamemanagers.assets
+Copied level0
+Copied resources.assets
+Copied resources.assets.resS
+Copied sharedassets0.assets
+Copied sharedassets0.assets.resS
+Copied temp.png
+Copied tempPreview.png
+Copied tempThumb.png
+Copied app.json
+Copied appearance.json
+Copied core-plugins.json
+Copied graph.json
+Copied hotkeys.json
+Copied workspace
+Copied Game Engines.md
+Copied Game ideas.md
+Copied Half-term Unity work notes.md
+Copied How to light characters..md
+Copied Level-Design Notes.md
+Copied Playtesting.md
+Copied Workflow.md
+Copied Characters.md
+Copied Ideas.md
+Copied Siktur.md
+Copied birchwood.jpg
+Copied cayley_interior.jpg
+Copied christmas_photo_studio_01.jpg
+Copied dikhololo_night (1).jpg
+Copied dikhololo_night.jpg
+Copied fireplace.jpg
+Copied kloppenheim_02.jpg
+Copied lilienstein.jpg
+Copied moonless_golf.jpg
+Copied phalzer_forest_01.jpg
+Copied pond_bridge_night.jpg
+Copied reinforced_concrete_02.jpg
+Copied reinforced_concrete_02.webp
+Copied satara_night.jpg
+Copied satara_night_no_lamps.jpg
+Copied syferfontein_0d_clear.jpg
+Copied syferfontein_1d_clear.jpg
+Copied UVCheckers.jpg
+Copied Materialize.exe
+Copied settings.txt
+Copied UnityPlayer.dll
+Copied Red-Nelb Angry.blend
+Copied Red-Nelb Balance.blend
+Copied Red-Nelb Balance.blend1
+Copied Red-Nelb Concerned.blend
+Copied Red-Nelb Concerned.blend1
+Copied Red-Nelb Hungry.blend1
+Copied Red-Nelb Shocked.blend
+Copied Red-Nelb Shocked.blend1
+Copied Red-Nelb_2.82 - Copy - Copy.blend
+Copied Red-Nelb_2.82 - Copy - Copy.blend1
+Copied Red-Nelb_2.82 - Copy.blend
+Copied Red-Nelb_2.82 - Copy.blend1
+Copied Red-Nelb_2.82 hammer.blend
+Copied Red-Nelb_2.82 hammer.blend1
+Copied Red-Nelb_2.82.blend
+Copied Red-Nelb_2.82.blend1
+Copied 3D Theory.docx
+Copied Character sheet Template.jpg
+Copied Enviroment1 copy.png
+Copied Enviroment1.psd
+Copied Enviroment2 copy.png
+Copied Enviroment2.psd
+Copied Enviroment3 copy.png
+Copied Enviroment3.psd
+Copied Enviroment4 copy.png
+Copied Enviroment4.psd
+Copied Enviroment5 copy.png
+Copied Enviroment5.psd
+Copied draw-your-characters-from-your-role-playing-game.jpg
+Copied Capture.PNG
+Copied male.psd
+Copied Notes.txt
+Copied Untitled-1.psd
+Copied w.psd
+Copied Destiny.jpg
+Copied Mountains.jpg
+Copied Principles of Design.docx
+Copied Untitled-1.psd
+Copied Untitled-2.psd
+Copied yp56eyvktxf51-ConvertImage.png
+Copied Big.png
+Copied Cute.png
+Copied Proportion_scale.psd
+Copied Smart.png
+Copied Speed.png
+Copied convmatr.def
+Copied EULA.txt
+Copied gui.xml
+Copied pref.xml
+Copied README.md
+Copied Accessibility.dll
+Copied Assembly-CSharp.dll
+Copied Assembly-UnityScript-firstpass.dll
+Copied Assembly-UnityScript.dll
+Copied Boo.Lang.dll
+Copied ClipboardHelper.dll
+Copied FreeImageNET.dll
+Copied I18N.dll
+Copied I18N.West.dll
+Copied Mono.Data.Tds.dll
+Copied Mono.Posix.dll
+Copied Mono.Security.dll
+Copied Mono.WebBrowser.dll
+Copied mscorlib.dll
+Copied System.Configuration.dll
+Copied System.Core.dll
+Copied System.Data.dll
+Copied System.dll
+Copied System.Drawing.dll
+Copied System.EnterpriseServices.dll
+Copied System.Security.dll
+Copied System.Transactions.dll
+Copied System.Windows.Forms.dll
+Copied System.Xml.dll
+Copied UnityEngine.AccessibilityModule.dll
+Copied UnityEngine.AccessibilityModule.xml
+Copied UnityEngine.AIModule.dll
+Copied UnityEngine.AIModule.xml
+Copied UnityEngine.AnimationModule.dll
+Copied UnityEngine.AnimationModule.xml
+Copied UnityEngine.ARModule.dll
+Copied UnityEngine.ARModule.xml
+Copied UnityEngine.AssetBundleModule.dll
+Copied UnityEngine.AssetBundleModule.xml
+Copied UnityEngine.AudioModule.dll
+Copied UnityEngine.AudioModule.xml
+Copied UnityEngine.ClothModule.dll
+Copied UnityEngine.ClothModule.xml
+Copied UnityEngine.ClusterInputModule.dll
+Copied UnityEngine.ClusterInputModule.xml
+Copied UnityEngine.ClusterRendererModule.dll
+Copied UnityEngine.ClusterRendererModule.xml
+Copied UnityEngine.CoreModule.dll
+Copied UnityEngine.CoreModule.xml
+Copied UnityEngine.CrashReportingModule.dll
+Copied UnityEngine.CrashReportingModule.xml
+Copied UnityEngine.DirectorModule.dll
+Copied UnityEngine.DirectorModule.xml
+Copied UnityEngine.dll
+Copied UnityEngine.GameCenterModule.dll
+Copied UnityEngine.GameCenterModule.xml
+Copied UnityEngine.GridModule.dll
+Copied UnityEngine.GridModule.xml
+Copied UnityEngine.ImageConversionModule.dll
+Copied UnityEngine.ImageConversionModule.xml
+Copied UnityEngine.IMGUIModule.dll
+Copied UnityEngine.IMGUIModule.xml
+Copied UnityEngine.InputModule.dll
+Copied UnityEngine.InputModule.xml
+Copied UnityEngine.JSONSerializeModule.dll
+Copied UnityEngine.JSONSerializeModule.xml
+Copied UnityEngine.Networking.dll
+Copied UnityEngine.ParticlesLegacyModule.dll
+Copied UnityEngine.ParticlesLegacyModule.xml
+Copied UnityEngine.ParticleSystemModule.dll
+Copied UnityEngine.ParticleSystemModule.xml
+Copied UnityEngine.PerformanceReportingModule.dll
+Copied UnityEngine.PerformanceReportingModule.xml
+Copied UnityEngine.Physics2DModule.dll
+Copied UnityEngine.Physics2DModule.xml
+Copied UnityEngine.PhysicsModule.dll
+Copied UnityEngine.PhysicsModule.xml
+Copied UnityEngine.ScreenCaptureModule.dll
+Copied UnityEngine.ScreenCaptureModule.xml
+Copied UnityEngine.SharedInternalsModule.dll
+Copied UnityEngine.SharedInternalsModule.xml
+Copied UnityEngine.SpatialTracking.dll
+Copied UnityEngine.SpriteMaskModule.dll
+Copied UnityEngine.SpriteMaskModule.xml
+Copied UnityEngine.SpriteShapeModule.dll
+Copied UnityEngine.SpriteShapeModule.xml
+Copied UnityEngine.StandardEvents.dll
+Copied UnityEngine.StyleSheetsModule.dll
+Copied UnityEngine.StyleSheetsModule.xml
+Copied UnityEngine.TerrainModule.dll
+Copied UnityEngine.TerrainModule.xml
+Copied UnityEngine.TerrainPhysicsModule.dll
+Copied UnityEngine.TerrainPhysicsModule.xml
+Copied UnityEngine.TextRenderingModule.dll
+Copied UnityEngine.TextRenderingModule.xml
+Copied UnityEngine.TilemapModule.dll
+Copied UnityEngine.TilemapModule.xml
+Copied UnityEngine.Timeline.dll
+Copied UnityEngine.UI.dll
+Copied UnityEngine.UIElementsModule.dll
+Copied UnityEngine.UIElementsModule.xml
+Copied UnityEngine.UIModule.dll
+Copied UnityEngine.UIModule.xml
+Copied UnityEngine.UNETModule.dll
+Copied UnityEngine.UNETModule.xml
+Copied UnityEngine.UnityAnalyticsModule.dll
+Copied UnityEngine.UnityAnalyticsModule.xml
+Copied UnityEngine.UnityConnectModule.dll
+Copied UnityEngine.UnityConnectModule.xml
+Copied UnityEngine.UnityWebRequestAudioModule.dll
+Copied UnityEngine.UnityWebRequestAudioModule.xml
+Copied UnityEngine.UnityWebRequestModule.dll
+Copied UnityEngine.UnityWebRequestModule.xml
+Copied UnityEngine.UnityWebRequestTextureModule.dll
+Copied UnityEngine.UnityWebRequestTextureModule.xml
+Copied UnityEngine.UnityWebRequestWWWModule.dll
+Copied UnityEngine.UnityWebRequestWWWModule.xml
+Copied UnityEngine.VehiclesModule.dll
+Copied UnityEngine.VehiclesModule.xml
+Copied UnityEngine.VideoModule.dll
+Copied UnityEngine.VideoModule.xml
+Copied UnityEngine.VRModule.dll
+Copied UnityEngine.VRModule.xml
+Copied UnityEngine.WebModule.dll
+Copied UnityEngine.WebModule.xml
+Copied UnityEngine.WindModule.dll
+Copied UnityEngine.WindModule.xml
+Copied UnityScript.Lang.dll
+Copied FreeImage.dll
+Copied unity default resources
+Copied unity_builtin_extra
+Copied c2i.exe
+Copied f2rb.exe
+Copied i2c.exe
+Copied AbstractWolf.jpg
+Copied AbstractWolf.webp
+Copied DemonSlayer.jpg
+Copied DemonSlayer.webp
+Copied lowpolywolf.jpg
+Copied SevenDeadlySins.jpg
+Copied kitchen_wood_diff_4k.jpg
+Copied kitchen_wood_rough_4k.jpg
+Copied old_planks_02_diff_4k.jpg
+Copied old_planks_02_disp_4k.png
+Copied old_planks_02_rough_4k.jpg
+Copied wood_table_001_diff_4k.jpg
+Copied wood_table_001_disp_4k.png
+Copied wood_table_001_rough_4k.jpg
+Copied app.info
+Copied boot.config
+Copied globalgamemanagers
+Copied globalgamemanagers.assets
+Copied level0
+Copied resources.assets
+Copied resources.assets.resS
+Copied sharedassets0.assets
+Copied sharedassets0.assets.resS
+Copied temp.png
+Copied tempPreview.png
+Copied tempThumb.png
+Copied Plants.blend
+Copied Plants.blend1
+Copied CharacterSheet.jpg
+Copied cHARACTERsHEET.png
+Copied cHARACTERsHEET.PSD
+Copied Bullet.aseprite
+Copied Bullet.png
+Copied BulletsMoodBoard.pur
+Copied BulletsVariations.aseprite
+Copied BulletsVariations.png
+Copied BulletsVariationsUpScaler.png
+Copied EmptyBullet.aseprite
+Copied EmptyBullet.png
+Copied HeartsMoodBoard.pur
+Copied HeartVariations.aseprite
+Copied HeartVariations.png
+Copied HeartVaritationsUpScaled.png
+Copied Untitled-1.psd
+Copied LICENSES.md
+Copied aseprite_font.png
+Copied aseprite_mini.png
+Copied fonts.xml
+Copied LICENSE.txt
+Copied ase.ico
+Copied ase128.png
+Copied ase16.png
+Copied ase256.png
+Copied ase32.png
+Copied ase48.png
+Copied ase64.png
+Copied doc.ico
+Copied doc128.png
+Copied doc16.png
+Copied doc256.png
+Copied doc32.png
+Copied doc48.png
+Copied doc64.png
+Copied ext.ico
+Copied ext128.png
+Copied ext16.png
+Copied ext256.png
+Copied ext32.png
+Copied ext48.png
+Copied ext64.png
+Copied Pixel-1.gpl
+Copied tags.gpl
+Copied white_to_alpha.js
+Copied en.ini
+Copied about.xml
+Copied advanced_mode.xml
+Copied ask_for_color_profile.xml
+Copied brush_slot_params.xml
+Copied canvas_size.xml
+Copied cel_properties.xml
+Copied color_curve_point.xml
+Copied color_mode.xml
+Copied convolution_matrix.xml
+Copied despeckle.xml
+Copied duplicate_sprite.xml
+Copied dynamics.xml
+Copied export_file.xml
+Copied export_sprite_sheet.xml
+Copied file_selector.xml
+Copied font_popup.xml
+Copied frame_properties.xml
+Copied frame_tag_properties.xml
+Copied gif_options.xml
+Copied goto_frame.xml
+Copied grid_settings.xml
+Copied home_view.xml
+Copied import_sprite_sheet.xml
+Copied jpeg_options.xml
+Copied keyboard_shortcuts.xml
+Copied layer_properties.xml
+Copied main_window.xml
+Copied modify_selection.xml
+Copied new_folder_window.xml
+Copied new_layer.xml
+Copied new_sprite.xml
+Copied open_sequence.xml
+Copied options.xml
+Copied outline.xml
+Copied palette_from_sprite.xml
+Copied palette_popup.xml
+Copied palette_size.xml
+Copied paste_text.xml
+Copied replace_color.xml
+Copied script_access.xml
+Copied select_accelerator.xml
+Copied send_crash.xml
+Copied slice_properties.xml
+Copied sprite_properties.xml
+Copied sprite_size.xml
+Copied svg_options.xml
+Copied tag_properties.xml
+Copied tga_options.xml
+Copied timeline_conf.xml
+Copied undo_history.xml
+Copied user_data.xml
+Copied webp_options.xml
+Copied aseprite.css
+Copied aseprite.js
+Copied aseprite.png
+Copied index.html
+Copied mono.dll
+Copied MonoPosixHelper.dll
+Copied Accessibility.dll
+Copied Assembly-CSharp.dll
+Copied Assembly-UnityScript-firstpass.dll
+Copied Assembly-UnityScript.dll
+Copied Boo.Lang.dll
+Copied ClipboardHelper.dll
+Copied FreeImageNET.dll
+Copied I18N.dll
+Copied I18N.West.dll
+Copied Mono.Data.Tds.dll
+Copied Mono.Posix.dll
+Copied Mono.Security.dll
+Copied Mono.WebBrowser.dll
+Copied mscorlib.dll
+Copied System.Configuration.dll
+Copied System.Core.dll
+Copied System.Data.dll
+Copied System.dll
+Copied System.Drawing.dll
+Copied System.EnterpriseServices.dll
+Copied System.Security.dll
+Copied System.Transactions.dll
+Copied System.Windows.Forms.dll
+Copied System.Xml.dll
+Copied UnityEngine.AccessibilityModule.dll
+Copied UnityEngine.AccessibilityModule.xml
+Copied UnityEngine.AIModule.dll
+Copied UnityEngine.AIModule.xml
+Copied UnityEngine.AnimationModule.dll
+Copied UnityEngine.AnimationModule.xml
+Copied UnityEngine.ARModule.dll
+Copied UnityEngine.ARModule.xml
+Copied UnityEngine.AssetBundleModule.dll
+Copied UnityEngine.AssetBundleModule.xml
+Copied UnityEngine.AudioModule.dll
+Copied UnityEngine.AudioModule.xml
+Copied UnityEngine.ClothModule.dll
+Copied UnityEngine.ClothModule.xml
+Copied UnityEngine.ClusterInputModule.dll
+Copied UnityEngine.ClusterInputModule.xml
+Copied UnityEngine.ClusterRendererModule.dll
+Copied UnityEngine.ClusterRendererModule.xml
+Copied UnityEngine.CoreModule.dll
+Copied UnityEngine.CoreModule.xml
+Copied UnityEngine.CrashReportingModule.dll
+Copied UnityEngine.CrashReportingModule.xml
+Copied UnityEngine.DirectorModule.dll
+Copied UnityEngine.DirectorModule.xml
+Copied UnityEngine.dll
+Copied UnityEngine.GameCenterModule.dll
+Copied UnityEngine.GameCenterModule.xml
+Copied UnityEngine.GridModule.dll
+Copied UnityEngine.GridModule.xml
+Copied UnityEngine.ImageConversionModule.dll
+Copied UnityEngine.ImageConversionModule.xml
+Copied UnityEngine.IMGUIModule.dll
+Copied UnityEngine.IMGUIModule.xml
+Copied UnityEngine.InputModule.dll
+Copied UnityEngine.InputModule.xml
+Copied UnityEngine.JSONSerializeModule.dll
+Copied UnityEngine.JSONSerializeModule.xml
+Copied UnityEngine.Networking.dll
+Copied UnityEngine.ParticlesLegacyModule.dll
+Copied UnityEngine.ParticlesLegacyModule.xml
+Copied UnityEngine.ParticleSystemModule.dll
+Copied UnityEngine.ParticleSystemModule.xml
+Copied UnityEngine.PerformanceReportingModule.dll
+Copied UnityEngine.PerformanceReportingModule.xml
+Copied UnityEngine.Physics2DModule.dll
+Copied UnityEngine.Physics2DModule.xml
+Copied UnityEngine.PhysicsModule.dll
+Copied UnityEngine.PhysicsModule.xml
+Copied UnityEngine.ScreenCaptureModule.dll
+Copied UnityEngine.ScreenCaptureModule.xml
+Copied UnityEngine.SharedInternalsModule.dll
+Copied UnityEngine.SharedInternalsModule.xml
+Copied UnityEngine.SpatialTracking.dll
+Copied UnityEngine.SpriteMaskModule.dll
+Copied UnityEngine.SpriteMaskModule.xml
+Copied UnityEngine.SpriteShapeModule.dll
+Copied UnityEngine.SpriteShapeModule.xml
+Copied UnityEngine.StandardEvents.dll
+Copied UnityEngine.StyleSheetsModule.dll
+Copied UnityEngine.StyleSheetsModule.xml
+Copied UnityEngine.TerrainModule.dll
+Copied UnityEngine.TerrainModule.xml
+Copied UnityEngine.TerrainPhysicsModule.dll
+Copied UnityEngine.TerrainPhysicsModule.xml
+Copied UnityEngine.TextRenderingModule.dll
+Copied UnityEngine.TextRenderingModule.xml
+Copied UnityEngine.TilemapModule.dll
+Copied UnityEngine.TilemapModule.xml
+Copied UnityEngine.Timeline.dll
+Copied UnityEngine.UI.dll
+Copied UnityEngine.UIElementsModule.dll
+Copied UnityEngine.UIElementsModule.xml
+Copied UnityEngine.UIModule.dll
+Copied UnityEngine.UIModule.xml
+Copied UnityEngine.UNETModule.dll
+Copied UnityEngine.UNETModule.xml
+Copied UnityEngine.UnityAnalyticsModule.dll
+Copied UnityEngine.UnityAnalyticsModule.xml
+Copied UnityEngine.UnityConnectModule.dll
+Copied UnityEngine.UnityConnectModule.xml
+Copied UnityEngine.UnityWebRequestAudioModule.dll
+Copied UnityEngine.UnityWebRequestAudioModule.xml
+Copied UnityEngine.UnityWebRequestModule.dll
+Copied UnityEngine.UnityWebRequestModule.xml
+Copied UnityEngine.UnityWebRequestTextureModule.dll
+Copied UnityEngine.UnityWebRequestTextureModule.xml
+Copied UnityEngine.UnityWebRequestWWWModule.dll
+Copied UnityEngine.UnityWebRequestWWWModule.xml
+Copied UnityEngine.VehiclesModule.dll
+Copied UnityEngine.VehiclesModule.xml
+Copied UnityEngine.VideoModule.dll
+Copied UnityEngine.VideoModule.xml
+Copied UnityEngine.VRModule.dll
+Copied UnityEngine.VRModule.xml
+Copied UnityEngine.WebModule.dll
+Copied UnityEngine.WebModule.xml
+Copied UnityEngine.WindModule.dll
+Copied UnityEngine.WindModule.xml
+Copied UnityScript.Lang.dll
+Copied FreeImage.dll
+Copied unity default resources
+Copied unity_builtin_extra
+Copied c2i.exe
+Copied f2rb.exe
+Copied i2c.exe
+Copied Barn.blend
+Copied Barn.blend1
+Copied DiabloDungeon.blend
+Copied DiabloDungeon.blend1
+Copied NewScene.pur
+Copied Preview.png
+Copied Snap Assets.pptx
+Copied SnapAssets.png
+Copied 0001-0120.mp4
+Copied Excalibur.blend
+Copied Excalibur.blend1
+Copied Render_ver001.png
+Copied Render_ver002.png
+Copied Render_ver003.png
+Copied 0001-0080.mp4
+Copied 0001-0120.mp4
+Copied 0001-0250.mp4
+Copied ballfalling.blend
+Copied ballfalling.blend1
+Copied MultiBall_2.80.blend
+Copied ObstacleCourse.fbx
+Copied 2.png
+Copied 3.png
+Copied 4.png
+Copied 5.png
+Copied background.fbx
+Copied cabin.png
+Copied cabin2.png
+Copied cabin3.png
+Copied Campfire.fbx
+Copied Grass1.fbx
+Copied Grass2.fbx
+Copied Grass3.fbx
+Copied Grass4.fbx
+Copied grassfront.png
+Copied grassside.png
+Copied guy.fbx
+Copied guyrender.png
+Copied Log1.fbx
+Copied Log2.fbx
+Copied OakTree.fbx
+Copied Screenshot 2021-12-10 150731.png
+Copied ss.png
+Copied Tent.fbx
+Copied untitled.blend
+Copied untitled.blend1
+Copied untitled.png
+Copied assetlist.txt
+Copied LowPolyEnviroment.blend
+Copied LowPolyEnviroment.blend1
+Copied NewScene.pur
+Copied 3 - 3D Modelling - Extrusion Modelling + Primative construction.pptx
+Copied LowPolyFarm - Iteration1.blend
+Copied LowPolyFarm - Iteration1.blend1
+Copied LowPolyFarm - Iteration2.blend
+Copied LowPolyFarm - Iteration3.blend
+Copied LowPolyFarm - Iteration3.blend1
+Copied LowPolyFarm.blend
+Copied LowPolyFarm.blend1
+Copied LowPolyFarm.png
+Copied LowPolyFarmV2.png
+Copied test.png
+Copied untitled.png
+Copied LightHouse.pptx
+Copied NewScene.pur
+Copied untitled.blend
+Copied untitled.blend1
+Copied Cabin.blend
+Copied Cabin.blend1
+Copied Cabin.pur
+Copied RocketShip.blend
+Copied WarHammer.blend
+Copied WarHammer.blend1
+Copied BetterWellRender.png
+Copied NewWell.blend
+Copied NewWell.blend1
+Copied well.blend
+Copied well.blend1
+Copied Well.png
+Copied WellRender.png
+Copied b901b66ab91c47a9b8ef7a9a9ca879db.jpeg
+Copied untitled.blend
+Copied NewScene.pur
+Copied untitled.blend
+Copied untitled.blend1
+Copied untitled.png
+Copied City.blend
+Copied City.blend1
+Copied Render.png
+Copied cyclespreview.png
+Copied cyclespreview2.png
+Copied cyclespreview3.png
+Copied maxresdefault.jpg
+Copied NewScene.pur
+Copied preview.png
+Copied preview2.png
+Copied preview3.png
+Copied untitled.blend
+Copied untitled.blend1
+Copied untitled.blend
+Copied untitled.blend1
+Copied Courtyard.blend
+Copied Courtyard.blend1
+Copied LowPolyGun.blend
+Copied LowPolyGun.blend1
+Copied umarex-glock-19-gas-blowback-pistol-p8214-13117_medium 2.6413.jpg
+Copied 8-86327_beer-bottle-beverage-can-beer-glasses-beer-bottle.png
+Copied NewScene.pur
+Copied untitled.blend
+Copied untitled.blend1
+Copied untitled.png
+Copied 0001-0300.mp4
+Copied cycles0001-0300.mp4
+Copied NewScene.pur
+Copied preview0001-0250.mp4
+Copied preview0001-0300.mp4
+Copied preview0001-0300.rar
+Copied untitled.blend
+Copied untitled.blend1
+Copied final.png
+Copied untitled.blend
+Copied untitled.blend1
+Copied untitled.png
+Copied untitled.blend
+Copied untitled.blend1
+Copied untitled.fbx
+Copied untitled.png
+Copied tower.blend
+Copied tower.blend1
+Copied aap-64.gpl
+Copied aap-micro12.gpl
+Copied aap-radiantxv.gpl
+Copied aap-splendor128.gpl
+Copied package.json
+Copied simplejpc-16.gpl
+Copied a64.gpl
+Copied arne16.gpl
+Copied arne32.gpl
+Copied cg-arne.gpl
+Copied copper-tech.gpl
+Copied cpc-boy.gpl
+Copied eroge-copper.gpl
+Copied jmp.gpl
+Copied package.json
+Copied psygnosia.gpl
+Copied LICENSE.txt
+Copied package.json
+Copied sheet.aseprite-data
+Copied sheet.png
+Copied theme.xml
+Copied bayer2x2.bmp
+Copied bayer4x4.bmp
+Copied bayer8x8.bmp
+Copied package.json
+Copied matriax8c.gpl
+Copied package.json
+Copied db16.gpl
+Copied db32.gpl
+Copied package.json
+Copied arq16.gpl
+Copied arq4.gpl
+Copied edg16.gpl
+Copied edg32.gpl
+Copied edg8.gpl
+Copied en4.gpl
+Copied enos16.gpl
+Copied hept32.gpl
+Copied package.json
+Copied apple-ii.gpl
+Copied atari2600-ntsc.gpl
+Copied atari2600-pal.gpl
+Copied cga.gpl
+Copied cga0.gpl
+Copied cga0hi.gpl
+Copied cga1.gpl
+Copied cga1hi.gpl
+Copied cga3rd.gpl
+Copied cga3rdhi.gpl
+Copied commodore-plus4.gpl
+Copied commodore-vic20.gpl
+Copied commodore64.gpl
+Copied cpc.gpl
+Copied gameboy-color-type1.gpl
+Copied gameboy.gpl
+Copied master-system.gpl
+Copied msx1.gpl
+Copied msx2.gpl
+Copied nes-ntsc.gpl
+Copied nes.gpl
+Copied package.json
+Copied teletext.gpl
+Copied vga-13h.gpl
+Copied virtualboy.gpl
+Copied zx-spectrum.gpl
+Copied mail24.gpl
+Copied package.json
+Copied nyx8.gpl
+Copied package.json
+Copied package.json
+Copied pico-8.gpl
+Copied bubblegum-16.gpl
+Copied package.json
+Copied rosy-42.gpl
+Copied google-ui.gpl
+Copied minecraft.gpl
+Copied monokai.gpl
+Copied package.json
+Copied smile-basic.gpl
+Copied solarized.gpl
+Copied web-safe-colors.gpl
+Copied win16.gpl
+Copied x11.gpl
+Copied package.json
+Copied zughy-32.gpl
+Copied browscap.ini
+Copied config
+Copied mono.dll
+Copied MonoPosixHelper.dll
+Copied BowlingScene.blend
+Copied BowlingScene.blend1
+Copied Preview.png
+Copied SmallPreview.png
+Copied untitled.blend
+Copied Blockout.blend
+Copied Blockout.blend1
+Copied BlockoutV1.png
+Copied BlockoutV2.png
+Copied BlockoutV3.png
+Copied Bowling Alley.pptx
+Copied BowlingAlley.blend
+Copied BowlingAlley.blend1
+Copied EveeRender0001-0250.mkv
+Copied EveeRender0001-0250.mp4
+Copied Preview.png
+Copied Preview2.png
+Copied Preview3.png
+Copied uvCheckers.jpg
+Copied untitled.png
+Copied Iteration1.png
+Copied Iteration2.png
+Copied Iteration3.png
+Copied Companion.blend
+Copied Companion.blend1
+Copied OPTIONS.png
+Copied untitled.png
+Copied Box.jpg
+Copied iteration2.png
+Copied SikturScreen.blend
+Copied SikturScreen.blend1
+Copied untitled.png
+Copied wgun.png
+Copied Box.jpg
+Copied NewScene.pur
+Copied preview.png
+Copied SnapAssets.blend
+Copied SnapAssets.blend1
+Copied 0001-0168.gif
+Copied 0001-0168.mp4
+Copied Menu.png
+Copied SikturMenu.blend
+Copied SikturMenu.blend1
+Copied SikturMenu_RetopoFlow_AutoSave.blend
+Copied NewScene.pur
+Copied untitled.blend
+Copied untitled.blend1
+Copied Sci-fiSword.pur
+Copied Sword.blend
+Copied Sword.blend1
+Copied LowPolyRobot.blend
+Copied LowPolyRobotV2.blend
+Copied NewScene.pur
+Copied Modern House.blend
+Copied Modern House.blend1
+Copied untitled.blend
+Copied WendigoSword.pur
+Copied Cabin.blend
+Copied Cabin.blend1
+Copied Cabin.png
+Copied 2untitled.png
+Copied untitled.blend
+Copied untitled.blend1
+Copied OutsidePortal.blend
+Copied OutsidePortal.blend1
+Copied LowPolyRoad.blend
+Copied 2.png
+Copied 3.png
+Copied untitled.blend
+Copied untitled.blend1
+Copied untitled.png
+Copied 0001-0120.mp4
+Copied 2.png
+Copied 3.png
+Copied untitled.blend
+Copied untitled.blend1
+Copied untitled.png
+Copied preview0001-0300.mp4
+Copied IronSword.blend
+Copied IronSword.blend1
+Copied IronSword.pur
+Copied DefaultWsdlHelpGenerator.aspx
+Copied machine.config
+Copied DefaultWsdlHelpGenerator.aspx
+Copied machine.config
+Copied settings.map
+Copied web.config
+Copied config.xml
+Copied browscap.ini
+Copied config
+Copied Front.png
+Copied Roof.png
+Copied Side.png
+Copied Side2.png
+Copied BowlingBall.blend
+Copied BowlingBall.blend1
+Copied Pin.blend1
+Copied Pin.png
+Copied 4fefc3f2-bcc2-4609-8bc2-bb855fbe0618.jpeg
+Copied b48808ff-dba2-4b6b-b352-35fad0d3ae68_1920x1080.jpg
+Copied NewScene.pur
+Copied shutterstock_4951387.jpg
+Copied Chiricahua_NarrowPath.ibl
+Copied NarrowPath_3k.hdr
+Copied NarrowPath_8k.jpg
+Copied NarrowPath_Blur.hdr
+Copied NarrowPath_Blur.jpg
+Copied NarrowPath_preview.jpg
+Copied NarrowPath_thumb.jpg
+Copied rocks_high.blend
+Copied Crouch To Stand.fbx
+Copied CubeAntagonist (1).fbx
+Copied MaleModel - Copy.blend
+Copied MaleModel - Copy.blend1
+Copied MaleModel.blend
+Copied MaleModel.blend1
+Copied PlayerModel.fbx
+Copied Reference.jpg
+Copied Options.fbx
+Copied Play.fbx
+Copied BoxRoom.fbx
+Copied Light.fbx
+Copied Options.fbx
+Copied Table.fbx
+Copied ak.jpg
+Copied ak47.jpg
+Copied AKPreview.fbx
+Copied AKRender.png
+Copied NewAK.blend
+Copied NewAK.blend1
+Copied untitled.blend
+Copied untitled.blend1
+Copied LowPolyGun.blend
+Copied LowPolyGun.blend1
+Copied LowPolyGun.fbx
+Copied Pistol.png
+Copied umarex-glock-19-gas-blowback-pistol-p8214-13117_medium 2.6413.jpg
+Copied LowPolyShotgun.blend
+Copied LowPolyShotgun.blend1
+Copied NewScene.pur
+Copied pngwing.com.png
+Copied kindpng_326664.png
+Copied MossbergPistols.blend
+Copied MossbergPistols.blend1
+Copied MoodBoard.pur
+Copied Bedroom.blend
+Copied Bedroom.blend1
+Copied BetterBedroom.blend
+Copied BetterBedroom.blend1
+Copied BetterRoomRenderVersion1.png
+Copied BetterRoomRenderVersion2.png
+Copied Inspiration.png
+Copied RoomRender.png
+Copied Bedroom.blend
+Copied Bedroom.blend1
+Copied BedroomVersion2Render.png
+Copied untitled.blend
+Copied untitled.blend1
+Copied untitled.blend
+Copied untitled.blend1
+Copied Compat.browser
+Copied DefaultWsdlHelpGenerator.aspx
+Copied machine.config
+Copied DefaultWsdlHelpGenerator.aspx
+Copied machine.config
+Copied settings.map
+Copied web.config
+Copied config.xml
+Copied TextMeOne-Regular.ttf
+Copied BowlingBalls.blend
+Copied BowlingBalls.blend1
+Copied Glass.blend
+Copied GlassV2.blend
+Copied GlassV2.blend1
+Copied Lane.blend
+Copied Lane.blend1
+Copied Machine.blend
+Copied Machine.blend1
+Copied Pin.blend
+Copied Rack.blend
+Copied Rail.blend
+Copied RailGuard.blend
+Copied RailGuard.blend1
+Copied Screens.blend
+Copied Screens.blend1
+Copied Sofa.blend
+Copied Sofa.blend1
+Copied Table.blend
+Copied Table.blend1
+Copied Tablet.blend
+Copied Tablet.blend1
+Copied WineBottle.blend
+Copied WineBottle.blend1
+Copied dc-bowl.jpg
+Copied IMG_2204-2.jpeg
+Copied MoodBoard.pur
+Copied pinstack1-1080x675.jpg
+Copied LeadPlate.tif
+Copied runes.jpg
+Copied scratches.jpg
+Copied uvCheckers.jpg
+Copied LowPolyDeer.blend
+Copied LowPolyDeer.blend1
+Copied LowPolyDeer.pur
+Copied LowPolyDeerModel.blend
+Copied LowPolyDeerModel.blend1
+Copied Turnaround.jpg
+Copied BackFacing.png
+Copied BackFacingV3.png
+Copied CubeAntagonist.fbx
+Copied FrontFacing.png
+Copied FrontFacingV3.png
+Copied QuaterFacing.png
+Copied QuaterFacingV2.png
+Copied QuaterFacingV3.png
+Copied RunningAntagonist.fbx
+Copied WalkingAntagonist.fbx
+Copied FootRobot.blend
+Copied FootRobot.blend1
+Copied Blockout.blend
+Copied Blockout.blend1
+Copied male copy.png
+Copied male.psd
+Copied untitled.blend
+Copied untitled.blend1
+Copied BackFacing.png
+Copied FrontFacing.png
+Copied FrontFacingRender.png
+Copied Guy.fbx
+Copied PlayerModel.fbx
+Copied PlayerModelWBelt.fbx
+Copied QuaterFacingRender.png
+Copied SideFacing.png
+Copied Walking.fbx
+Copied WalkingPlayer.fbx
+Copied walkingpreview0000-0024.mp4
+Copied Tiles107_1K_AmbientOcclusion.png
+Copied Tiles107_1K_Color.png
+Copied Tiles107_1K_Displacement.png
+Copied Tiles107_1K_NormalDX.png
+Copied Tiles107_1K_NormalGL.png
+Copied Tiles107_1K_Roughness.png
+Copied config_0001.uni
+Copied config_0002.uni
+Copied config_0003.uni
+Copied config_0004.uni
+Copied config_0005.uni
+Copied config_0006.uni
+Copied config_0007.uni
+Copied config_0008.uni
+Copied config_0009.uni
+Copied config_0010.uni
+Copied config_0011.uni
+Copied config_0012.uni
+Copied config_0013.uni
+Copied config_0014.uni
+Copied config_0015.uni
+Copied config_0016.uni
+Copied config_0017.uni
+Copied config_0018.uni
+Copied config_0019.uni
+Copied config_0020.uni
+Copied config_0021.uni
+Copied config_0022.uni
+Copied config_0023.uni
+Copied config_0024.uni
+Copied config_0025.uni
+Copied config_0026.uni
+Copied config_0027.uni
+Copied config_0028.uni
+Copied config_0029.uni
+Copied config_0030.uni
+Copied config_0031.uni
+Copied config_0032.uni
+Copied config_0033.uni
+Copied config_0034.uni
+Copied config_0035.uni
+Copied config_0036.uni
+Copied config_0037.uni
+Copied config_0038.uni
+Copied config_0039.uni
+Copied config_0040.uni
+Copied config_0041.uni
+Copied config_0042.uni
+Copied config_0043.uni
+Copied config_0044.uni
+Copied config_0045.uni
+Copied config_0046.uni
+Copied config_0047.uni
+Copied config_0048.uni
+Copied config_0049.uni
+Copied config_0050.uni
+Copied config_0051.uni
+Copied config_0052.uni
+Copied config_0053.uni
+Copied config_0054.uni
+Copied config_0055.uni
+Copied config_0056.uni
+Copied config_0057.uni
+Copied config_0058.uni
+Copied config_0059.uni
+Copied config_0060.uni
+Copied config_0061.uni
+Copied config_0062.uni
+Copied config_0063.uni
+Copied config_0064.uni
+Copied config_0065.uni
+Copied config_0066.uni
+Copied config_0067.uni
+Copied config_0068.uni
+Copied config_0069.uni
+Copied config_0070.uni
+Copied config_0071.uni
+Copied config_0072.uni
+Copied config_0073.uni
+Copied config_0074.uni
+Copied config_0075.uni
+Copied config_0076.uni
+Copied config_0077.uni
+Copied config_0078.uni
+Copied config_0079.uni
+Copied config_0080.uni
+Copied config_0081.uni
+Copied config_0082.uni
+Copied config_0083.uni
+Copied config_0084.uni
+Copied config_0085.uni
+Copied config_0086.uni
+Copied config_0087.uni
+Copied config_0088.uni
+Copied config_0089.uni
+Copied config_0090.uni
+Copied config_0091.uni
+Copied config_0092.uni
+Copied config_0093.uni
+Copied config_0094.uni
+Copied config_0095.uni
+Copied config_0096.uni
+Copied config_0097.uni
+Copied config_0098.uni
+Copied config_0099.uni
+Copied config_0100.uni
+Copied config_0101.uni
+Copied config_0102.uni
+Copied config_0103.uni
+Copied config_0104.uni
+Copied config_0105.uni
+Copied config_0106.uni
+Copied config_0107.uni
+Copied config_0108.uni
+Copied config_0109.uni
+Copied config_0110.uni
+Copied config_0111.uni
+Copied config_0112.uni
+Copied config_0113.uni
+Copied config_0114.uni
+Copied config_0115.uni
+Copied config_0116.uni
+Copied config_0117.uni
+Copied config_0118.uni
+Copied config_0119.uni
+Copied config_0120.uni
+Copied fluid_data_0001.vdb
+Copied fluid_data_0002.vdb
+Copied fluid_data_0003.vdb
+Copied fluid_data_0004.vdb
+Copied fluid_data_0005.vdb
+Copied fluid_data_0006.vdb
+Copied fluid_data_0007.vdb
+Copied fluid_data_0008.vdb
+Copied fluid_data_0009.vdb
+Copied fluid_data_0010.vdb
+Copied fluid_data_0011.vdb
+Copied fluid_data_0012.vdb
+Copied fluid_data_0013.vdb
+Copied fluid_data_0014.vdb
+Copied fluid_data_0015.vdb
+Copied fluid_data_0016.vdb
+Copied fluid_data_0017.vdb
+Copied fluid_data_0018.vdb
+Copied fluid_data_0019.vdb
+Copied fluid_data_0020.vdb
+Copied fluid_data_0021.vdb
+Copied fluid_data_0022.vdb
+Copied fluid_data_0023.vdb
+Copied fluid_data_0024.vdb
+Copied fluid_data_0025.vdb
+Copied fluid_data_0026.vdb
+Copied fluid_data_0027.vdb
+Copied fluid_data_0028.vdb
+Copied fluid_data_0029.vdb
+Copied fluid_data_0030.vdb
+Copied fluid_data_0031.vdb
+Copied fluid_data_0032.vdb
+Copied fluid_data_0033.vdb
+Copied fluid_data_0034.vdb
+Copied fluid_data_0035.vdb
+Copied fluid_data_0036.vdb
+Copied fluid_data_0037.vdb
+Copied fluid_data_0038.vdb
+Copied fluid_data_0039.vdb
+Copied fluid_data_0040.vdb
+Copied fluid_data_0041.vdb
+Copied fluid_data_0042.vdb
+Copied fluid_data_0043.vdb
+Copied fluid_data_0044.vdb
+Copied fluid_data_0045.vdb
+Copied fluid_data_0046.vdb
+Copied fluid_data_0047.vdb
+Copied fluid_data_0048.vdb
+Copied fluid_data_0049.vdb
+Copied fluid_data_0050.vdb
+Copied fluid_data_0051.vdb
+Copied fluid_data_0052.vdb
+Copied fluid_data_0053.vdb
+Copied fluid_data_0054.vdb
+Copied fluid_data_0055.vdb
+Copied fluid_data_0056.vdb
+Copied fluid_data_0057.vdb
+Copied fluid_data_0058.vdb
+Copied fluid_data_0059.vdb
+Copied fluid_data_0060.vdb
+Copied fluid_data_0061.vdb
+Copied fluid_data_0062.vdb
+Copied fluid_data_0063.vdb
+Copied fluid_data_0064.vdb
+Copied fluid_data_0065.vdb
+Copied fluid_data_0066.vdb
+Copied fluid_data_0067.vdb
+Copied fluid_data_0068.vdb
+Copied fluid_data_0069.vdb
+Copied fluid_data_0070.vdb
+Copied fluid_data_0071.vdb
+Copied fluid_data_0072.vdb
+Copied fluid_data_0073.vdb
+Copied fluid_data_0074.vdb
+Copied fluid_data_0075.vdb
+Copied fluid_data_0076.vdb
+Copied fluid_data_0077.vdb
+Copied fluid_data_0078.vdb
+Copied fluid_data_0079.vdb
+Copied fluid_data_0080.vdb
+Copied fluid_data_0081.vdb
+Copied fluid_data_0082.vdb
+Copied fluid_data_0083.vdb
+Copied fluid_data_0084.vdb
+Copied fluid_data_0085.vdb
+Copied fluid_data_0086.vdb
+Copied fluid_data_0087.vdb
+Copied fluid_data_0088.vdb
+Copied fluid_data_0089.vdb
+Copied fluid_data_0090.vdb
+Copied fluid_data_0091.vdb
+Copied fluid_data_0092.vdb
+Copied fluid_data_0093.vdb
+Copied fluid_data_0094.vdb
+Copied fluid_data_0095.vdb
+Copied fluid_data_0096.vdb
+Copied fluid_data_0097.vdb
+Copied fluid_data_0098.vdb
+Copied fluid_data_0099.vdb
+Copied fluid_data_0100.vdb
+Copied fluid_data_0101.vdb
+Copied fluid_data_0102.vdb
+Copied fluid_data_0103.vdb
+Copied fluid_data_0104.vdb
+Copied fluid_data_0105.vdb
+Copied fluid_data_0106.vdb
+Copied fluid_data_0107.vdb
+Copied fluid_data_0108.vdb
+Copied fluid_data_0109.vdb
+Copied fluid_data_0110.vdb
+Copied fluid_data_0111.vdb
+Copied fluid_data_0112.vdb
+Copied fluid_data_0113.vdb
+Copied fluid_data_0114.vdb
+Copied fluid_data_0115.vdb
+Copied fluid_data_0116.vdb
+Copied fluid_data_0117.vdb
+Copied fluid_data_0118.vdb
+Copied fluid_data_0119.vdb
+Copied fluid_data_0120.vdb
+Copied config_0001.uni
+Copied config_0002.uni
+Copied config_0003.uni
+Copied config_0004.uni
+Copied config_0005.uni
+Copied config_0006.uni
+Copied config_0007.uni
+Copied config_0008.uni
+Copied config_0009.uni
+Copied config_0010.uni
+Copied config_0011.uni
+Copied config_0012.uni
+Copied config_0013.uni
+Copied config_0014.uni
+Copied config_0015.uni
+Copied config_0016.uni
+Copied config_0017.uni
+Copied config_0018.uni
+Copied config_0019.uni
+Copied config_0020.uni
+Copied config_0021.uni
+Copied config_0022.uni
+Copied config_0023.uni
+Copied config_0024.uni
+Copied config_0025.uni
+Copied config_0026.uni
+Copied config_0027.uni
+Copied config_0028.uni
+Copied config_0029.uni
+Copied config_0030.uni
+Copied config_0031.uni
+Copied config_0032.uni
+Copied config_0033.uni
+Copied config_0034.uni
+Copied config_0035.uni
+Copied config_0036.uni
+Copied config_0037.uni
+Copied config_0038.uni
+Copied config_0039.uni
+Copied config_0040.uni
+Copied config_0041.uni
+Copied config_0042.uni
+Copied config_0043.uni
+Copied config_0044.uni
+Copied config_0045.uni
+Copied config_0046.uni
+Copied config_0047.uni
+Copied config_0048.uni
+Copied config_0049.uni
+Copied config_0050.uni
+Copied config_0051.uni
+Copied config_0052.uni
+Copied config_0053.uni
+Copied config_0054.uni
+Copied config_0055.uni
+Copied config_0056.uni
+Copied config_0057.uni
+Copied config_0058.uni
+Copied config_0059.uni
+Copied config_0060.uni
+Copied config_0061.uni
+Copied config_0062.uni
+Copied config_0063.uni
+Copied config_0064.uni
+Copied config_0065.uni
+Copied config_0066.uni
+Copied config_0067.uni
+Copied config_0068.uni
+Copied config_0069.uni
+Copied config_0070.uni
+Copied config_0071.uni
+Copied config_0072.uni
+Copied config_0073.uni
+Copied config_0074.uni
+Copied config_0075.uni
+Copied config_0076.uni
+Copied config_0077.uni
+Copied config_0078.uni
+Copied config_0079.uni
+Copied config_0080.uni
+Copied config_0081.uni
+Copied config_0082.uni
+Copied config_0083.uni
+Copied config_0084.uni
+Copied config_0085.uni
+Copied config_0086.uni
+Copied config_0087.uni
+Copied config_0088.uni
+Copied config_0089.uni
+Copied config_0090.uni
+Copied config_0091.uni
+Copied config_0092.uni
+Copied config_0093.uni
+Copied config_0094.uni
+Copied config_0095.uni
+Copied config_0096.uni
+Copied config_0097.uni
+Copied config_0098.uni
+Copied config_0099.uni
+Copied config_0100.uni
+Copied config_0101.uni
+Copied config_0102.uni
+Copied config_0103.uni
+Copied config_0104.uni
+Copied config_0105.uni
+Copied config_0106.uni
+Copied config_0107.uni
+Copied config_0108.uni
+Copied config_0109.uni
+Copied config_0110.uni
+Copied config_0111.uni
+Copied config_0112.uni
+Copied config_0113.uni
+Copied config_0114.uni
+Copied config_0115.uni
+Copied config_0116.uni
+Copied config_0117.uni
+Copied config_0118.uni
+Copied config_0119.uni
+Copied config_0120.uni
+Copied fluid_data_0001.vdb
+Copied fluid_data_0002.vdb
+Copied fluid_data_0003.vdb
+Copied fluid_data_0004.vdb
+Copied fluid_data_0005.vdb
+Copied fluid_data_0006.vdb
+Copied fluid_data_0007.vdb
+Copied fluid_data_0008.vdb
+Copied fluid_data_0009.vdb
+Copied fluid_data_0010.vdb
+Copied fluid_data_0011.vdb
+Copied fluid_data_0012.vdb
+Copied fluid_data_0013.vdb
+Copied fluid_data_0014.vdb
+Copied fluid_data_0015.vdb
+Copied fluid_data_0016.vdb
+Copied fluid_data_0017.vdb
+Copied fluid_data_0018.vdb
+Copied fluid_data_0019.vdb
+Copied fluid_data_0020.vdb
+Copied fluid_data_0021.vdb
+Copied fluid_data_0022.vdb
+Copied fluid_data_0023.vdb
+Copied fluid_data_0024.vdb
+Copied fluid_data_0025.vdb
+Copied fluid_data_0026.vdb
+Copied fluid_data_0027.vdb
+Copied fluid_data_0028.vdb
+Copied fluid_data_0029.vdb
+Copied fluid_data_0030.vdb
+Copied fluid_data_0031.vdb
+Copied fluid_data_0032.vdb
+Copied fluid_data_0033.vdb
+Copied fluid_data_0034.vdb
+Copied fluid_data_0035.vdb
+Copied fluid_data_0036.vdb
+Copied fluid_data_0037.vdb
+Copied fluid_data_0038.vdb
+Copied fluid_data_0039.vdb
+Copied fluid_data_0040.vdb
+Copied fluid_data_0041.vdb
+Copied fluid_data_0042.vdb
+Copied fluid_data_0043.vdb
+Copied fluid_data_0044.vdb
+Copied fluid_data_0045.vdb
+Copied fluid_data_0046.vdb
+Copied fluid_data_0047.vdb
+Copied fluid_data_0048.vdb
+Copied fluid_data_0049.vdb
+Copied fluid_data_0050.vdb
+Copied fluid_data_0051.vdb
+Copied fluid_data_0052.vdb
+Copied fluid_data_0053.vdb
+Copied fluid_data_0054.vdb
+Copied fluid_data_0055.vdb
+Copied fluid_data_0056.vdb
+Copied fluid_data_0057.vdb
+Copied fluid_data_0058.vdb
+Copied fluid_data_0059.vdb
+Copied fluid_data_0060.vdb
+Copied fluid_data_0061.vdb
+Copied fluid_data_0062.vdb
+Copied fluid_data_0063.vdb
+Copied fluid_data_0064.vdb
+Copied fluid_data_0065.vdb
+Copied fluid_data_0066.vdb
+Copied fluid_data_0067.vdb
+Copied fluid_data_0068.vdb
+Copied fluid_data_0069.vdb
+Copied fluid_data_0070.vdb
+Copied fluid_data_0071.vdb
+Copied fluid_data_0072.vdb
+Copied fluid_data_0073.vdb
+Copied fluid_data_0074.vdb
+Copied fluid_data_0075.vdb
+Copied fluid_data_0076.vdb
+Copied fluid_data_0077.vdb
+Copied fluid_data_0078.vdb
+Copied fluid_data_0079.vdb
+Copied fluid_data_0080.vdb
+Copied fluid_data_0081.vdb
+Copied fluid_data_0082.vdb
+Copied fluid_data_0083.vdb
+Copied fluid_data_0084.vdb
+Copied fluid_data_0085.vdb
+Copied fluid_data_0086.vdb
+Copied fluid_data_0087.vdb
+Copied fluid_data_0088.vdb
+Copied fluid_data_0089.vdb
+Copied fluid_data_0090.vdb
+Copied fluid_data_0091.vdb
+Copied fluid_data_0092.vdb
+Copied fluid_data_0093.vdb
+Copied fluid_data_0094.vdb
+Copied fluid_data_0095.vdb
+Copied fluid_data_0096.vdb
+Copied fluid_data_0097.vdb
+Copied fluid_data_0098.vdb
+Copied fluid_data_0099.vdb
+Copied fluid_data_0100.vdb
+Copied fluid_data_0101.vdb
+Copied fluid_data_0102.vdb
+Copied fluid_data_0103.vdb
+Copied fluid_data_0104.vdb
+Copied fluid_data_0105.vdb
+Copied fluid_data_0106.vdb
+Copied fluid_data_0107.vdb
+Copied fluid_data_0108.vdb
+Copied fluid_data_0109.vdb
+Copied fluid_data_0110.vdb
+Copied fluid_data_0111.vdb
+Copied fluid_data_0112.vdb
+Copied fluid_data_0113.vdb
+Copied fluid_data_0114.vdb
+Copied fluid_data_0115.vdb
+Copied fluid_data_0116.vdb
+Copied fluid_data_0117.vdb
+Copied fluid_data_0118.vdb
+Copied fluid_data_0119.vdb
+Copied fluid_data_0120.vdb
+Copied config_0001.uni
+Copied config_0002.uni
+Copied config_0003.uni
+Copied config_0004.uni
+Copied config_0005.uni
+Copied config_0006.uni
+Copied config_0007.uni
+Copied config_0008.uni
+Copied config_0009.uni
+Copied config_0010.uni
+Copied config_0011.uni
+Copied config_0012.uni
+Copied config_0013.uni
+Copied config_0014.uni
+Copied config_0015.uni
+Copied config_0016.uni
+Copied config_0017.uni
+Copied config_0018.uni
+Copied config_0019.uni
+Copied config_0020.uni
+Copied config_0021.uni
+Copied config_0022.uni
+Copied config_0023.uni
+Copied config_0024.uni
+Copied config_0025.uni
+Copied config_0026.uni
+Copied config_0027.uni
+Copied config_0028.uni
+Copied config_0029.uni
+Copied config_0030.uni
+Copied config_0031.uni
+Copied config_0032.uni
+Copied config_0033.uni
+Copied config_0034.uni
+Copied config_0035.uni
+Copied config_0036.uni
+Copied config_0037.uni
+Copied config_0038.uni
+Copied config_0039.uni
+Copied config_0040.uni
+Copied config_0041.uni
+Copied config_0042.uni
+Copied config_0043.uni
+Copied config_0044.uni
+Copied config_0045.uni
+Copied config_0046.uni
+Copied config_0047.uni
+Copied config_0048.uni
+Copied config_0049.uni
+Copied config_0050.uni
+Copied config_0051.uni
+Copied config_0052.uni
+Copied config_0053.uni
+Copied config_0054.uni
+Copied config_0055.uni
+Copied config_0056.uni
+Copied config_0057.uni
+Copied config_0058.uni
+Copied config_0059.uni
+Copied config_0060.uni
+Copied config_0061.uni
+Copied config_0062.uni
+Copied config_0063.uni
+Copied config_0064.uni
+Copied config_0065.uni
+Copied config_0066.uni
+Copied config_0067.uni
+Copied config_0068.uni
+Copied config_0069.uni
+Copied config_0070.uni
+Copied config_0071.uni
+Copied config_0072.uni
+Copied config_0073.uni
+Copied config_0074.uni
+Copied config_0075.uni
+Copied config_0076.uni
+Copied config_0077.uni
+Copied config_0078.uni
+Copied config_0079.uni
+Copied config_0080.uni
+Copied config_0081.uni
+Copied config_0082.uni
+Copied config_0083.uni
+Copied config_0084.uni
+Copied config_0085.uni
+Copied config_0086.uni
+Copied config_0087.uni
+Copied config_0088.uni
+Copied config_0089.uni
+Copied config_0090.uni
+Copied config_0091.uni
+Copied config_0092.uni
+Copied config_0093.uni
+Copied config_0094.uni
+Copied config_0095.uni
+Copied config_0096.uni
+Copied config_0097.uni
+Copied config_0098.uni
+Copied config_0099.uni
+Copied config_0100.uni
+Copied config_0101.uni
+Copied config_0102.uni
+Copied config_0103.uni
+Copied config_0104.uni
+Copied config_0105.uni
+Copied config_0106.uni
+Copied config_0107.uni
+Copied config_0108.uni
+Copied config_0109.uni
+Copied config_0110.uni
+Copied config_0111.uni
+Copied config_0112.uni
+Copied config_0113.uni
+Copied config_0114.uni
+Copied config_0115.uni
+Copied config_0116.uni
+Copied config_0117.uni
+Copied config_0118.uni
+Copied config_0119.uni
+Copied config_0120.uni
+Copied fluid_data_0001.vdb
+Copied fluid_data_0002.vdb
+Copied fluid_data_0003.vdb
+Copied fluid_data_0004.vdb
+Copied fluid_data_0005.vdb
+Copied fluid_data_0006.vdb
+Copied fluid_data_0007.vdb
+Copied fluid_data_0008.vdb
+Copied fluid_data_0009.vdb
+Copied fluid_data_0010.vdb
+Copied fluid_data_0011.vdb
+Copied fluid_data_0012.vdb
+Copied fluid_data_0013.vdb
+Copied fluid_data_0014.vdb
+Copied fluid_data_0015.vdb
+Copied fluid_data_0016.vdb
+Copied fluid_data_0017.vdb
+Copied fluid_data_0018.vdb
+Copied fluid_data_0019.vdb
+Copied fluid_data_0020.vdb
+Copied fluid_data_0021.vdb
+Copied fluid_data_0022.vdb
+Copied fluid_data_0023.vdb
+Copied fluid_data_0024.vdb
+Copied fluid_data_0025.vdb
+Copied fluid_data_0026.vdb
+Copied fluid_data_0027.vdb
+Copied fluid_data_0028.vdb
+Copied fluid_data_0029.vdb
+Copied fluid_data_0030.vdb
+Copied fluid_data_0031.vdb
+Copied fluid_data_0032.vdb
+Copied fluid_data_0033.vdb
+Copied fluid_data_0034.vdb
+Copied fluid_data_0035.vdb
+Copied fluid_data_0036.vdb
+Copied fluid_data_0037.vdb
+Copied fluid_data_0038.vdb
+Copied fluid_data_0039.vdb
+Copied fluid_data_0040.vdb
+Copied fluid_data_0041.vdb
+Copied fluid_data_0042.vdb
+Copied fluid_data_0043.vdb
+Copied fluid_data_0044.vdb
+Copied fluid_data_0045.vdb
+Copied fluid_data_0046.vdb
+Copied fluid_data_0047.vdb
+Copied fluid_data_0048.vdb
+Copied fluid_data_0049.vdb
+Copied fluid_data_0050.vdb
+Copied fluid_data_0051.vdb
+Copied fluid_data_0052.vdb
+Copied fluid_data_0053.vdb
+Copied fluid_data_0054.vdb
+Copied fluid_data_0055.vdb
+Copied fluid_data_0056.vdb
+Copied fluid_data_0057.vdb
+Copied fluid_data_0058.vdb
+Copied fluid_data_0059.vdb
+Copied fluid_data_0060.vdb
+Copied fluid_data_0061.vdb
+Copied fluid_data_0062.vdb
+Copied fluid_data_0063.vdb
+Copied fluid_data_0064.vdb
+Copied fluid_data_0065.vdb
+Copied fluid_data_0066.vdb
+Copied fluid_data_0067.vdb
+Copied fluid_data_0068.vdb
+Copied fluid_data_0069.vdb
+Copied fluid_data_0070.vdb
+Copied fluid_data_0071.vdb
+Copied fluid_data_0072.vdb
+Copied fluid_data_0073.vdb
+Copied fluid_data_0074.vdb
+Copied fluid_data_0075.vdb
+Copied fluid_data_0076.vdb
+Copied fluid_data_0077.vdb
+Copied fluid_data_0078.vdb
+Copied fluid_data_0079.vdb
+Copied fluid_data_0080.vdb
+Copied fluid_data_0081.vdb
+Copied fluid_data_0082.vdb
+Copied fluid_data_0083.vdb
+Copied fluid_data_0084.vdb
+Copied fluid_data_0085.vdb
+Copied fluid_data_0086.vdb
+Copied fluid_data_0087.vdb
+Copied fluid_data_0088.vdb
+Copied fluid_data_0089.vdb
+Copied fluid_data_0090.vdb
+Copied fluid_data_0091.vdb
+Copied fluid_data_0092.vdb
+Copied fluid_data_0093.vdb
+Copied fluid_data_0094.vdb
+Copied fluid_data_0095.vdb
+Copied fluid_data_0096.vdb
+Copied fluid_data_0097.vdb
+Copied fluid_data_0098.vdb
+Copied fluid_data_0099.vdb
+Copied fluid_data_0100.vdb
+Copied fluid_data_0101.vdb
+Copied fluid_data_0102.vdb
+Copied fluid_data_0103.vdb
+Copied fluid_data_0104.vdb
+Copied fluid_data_0105.vdb
+Copied fluid_data_0106.vdb
+Copied fluid_data_0107.vdb
+Copied fluid_data_0108.vdb
+Copied fluid_data_0109.vdb
+Copied fluid_data_0110.vdb
+Copied fluid_data_0111.vdb
+Copied fluid_data_0112.vdb
+Copied fluid_data_0113.vdb
+Copied fluid_data_0114.vdb
+Copied fluid_data_0115.vdb
+Copied fluid_data_0116.vdb
+Copied fluid_data_0117.vdb
+Copied fluid_data_0118.vdb
+Copied fluid_data_0119.vdb
+Copied fluid_data_0120.vdb
+Copied fluid_noise_0001.vdb
+Copied fluid_noise_0002.vdb
+Copied fluid_noise_0003.vdb
+Copied fluid_noise_0004.vdb
+Copied fluid_noise_0005.vdb
+Copied fluid_noise_0006.vdb
+Copied fluid_noise_0007.vdb
+Copied fluid_noise_0008.vdb
+Copied fluid_noise_0009.vdb
+Copied fluid_noise_0010.vdb
+Copied fluid_noise_0011.vdb
+Copied fluid_noise_0012.vdb
+Copied fluid_noise_0013.vdb
+Copied fluid_noise_0014.vdb
+Copied fluid_noise_0015.vdb
+Copied fluid_noise_0016.vdb
+Copied fluid_noise_0017.vdb
+Copied fluid_noise_0018.vdb
+Copied fluid_noise_0019.vdb
+Copied fluid_noise_0020.vdb
+Copied fluid_noise_0021.vdb
+Copied fluid_noise_0022.vdb
+Copied fluid_noise_0023.vdb
+Copied fluid_noise_0024.vdb
+Copied fluid_noise_0025.vdb
+Copied fluid_noise_0026.vdb
+Copied fluid_noise_0027.vdb
+Copied fluid_noise_0028.vdb
+Copied fluid_noise_0029.vdb
+Copied fluid_noise_0030.vdb
+Copied fluid_noise_0031.vdb
+Copied fluid_noise_0032.vdb
+Copied fluid_noise_0033.vdb
+Copied fluid_noise_0034.vdb
+Copied fluid_noise_0035.vdb
+Copied fluid_noise_0036.vdb
+Copied fluid_noise_0037.vdb
+Copied fluid_noise_0038.vdb
+Copied fluid_noise_0039.vdb
+Copied fluid_noise_0040.vdb
+Copied fluid_noise_0041.vdb
+Copied fluid_noise_0042.vdb
+Copied fluid_noise_0043.vdb
+Copied fluid_noise_0044.vdb
+Copied fluid_noise_0045.vdb
+Copied fluid_noise_0046.vdb
+Copied fluid_noise_0047.vdb
+Copied fluid_noise_0048.vdb
+Copied fluid_noise_0049.vdb
+Copied fluid_noise_0050.vdb
+Copied fluid_noise_0051.vdb
+Copied fluid_noise_0052.vdb
+Copied fluid_noise_0053.vdb
+Copied fluid_noise_0054.vdb
+Copied fluid_noise_0055.vdb
+Copied fluid_noise_0056.vdb
+Copied fluid_noise_0057.vdb
+Copied fluid_noise_0058.vdb
+Copied fluid_noise_0059.vdb
+Copied fluid_noise_0060.vdb
+Copied fluid_noise_0061.vdb
+Copied fluid_noise_0062.vdb
+Copied fluid_noise_0063.vdb
+Copied fluid_noise_0064.vdb
+Copied fluid_noise_0065.vdb
+Copied fluid_noise_0066.vdb
+Copied fluid_noise_0067.vdb
+Copied fluid_noise_0068.vdb
+Copied fluid_noise_0069.vdb
+Copied fluid_noise_0070.vdb
+Copied fluid_noise_0071.vdb
+Copied fluid_noise_0072.vdb
+Copied fluid_noise_0073.vdb
+Copied fluid_noise_0074.vdb
+Copied fluid_noise_0075.vdb
+Copied fluid_noise_0076.vdb
+Copied fluid_noise_0077.vdb
+Copied fluid_noise_0078.vdb
+Copied fluid_noise_0079.vdb
+Copied fluid_noise_0080.vdb
+Copied fluid_noise_0081.vdb
+Copied fluid_noise_0082.vdb
+Copied fluid_noise_0083.vdb
+Copied fluid_noise_0084.vdb
+Copied fluid_noise_0085.vdb
+Copied fluid_noise_0086.vdb
+Copied fluid_noise_0087.vdb
+Copied fluid_noise_0088.vdb
+Copied fluid_noise_0089.vdb
+Copied fluid_noise_0090.vdb
+Copied fluid_noise_0091.vdb
+Copied fluid_noise_0092.vdb
+Copied fluid_noise_0093.vdb
+Copied fluid_noise_0094.vdb
+Copied fluid_noise_0095.vdb
+Copied fluid_noise_0096.vdb
+Copied fluid_noise_0097.vdb
+Copied fluid_noise_0098.vdb
+Copied fluid_noise_0099.vdb
+Copied fluid_noise_0100.vdb
+Copied fluid_noise_0101.vdb
+Copied fluid_noise_0102.vdb
+Copied fluid_noise_0103.vdb
+Copied fluid_noise_0104.vdb
+Copied fluid_noise_0105.vdb
+Copied fluid_noise_0106.vdb
+Copied fluid_noise_0107.vdb
+Copied fluid_noise_0108.vdb
+Copied fluid_noise_0109.vdb
+Copied fluid_noise_0110.vdb
+Copied fluid_noise_0111.vdb
+Copied fluid_noise_0112.vdb
+Copied fluid_noise_0113.vdb
+Copied fluid_noise_0114.vdb
+Copied fluid_noise_0115.vdb
+Copied fluid_noise_0116.vdb
+Copied fluid_noise_0117.vdb
+Copied fluid_noise_0118.vdb
+Copied fluid_noise_0119.vdb
+Copied fluid_noise_0120.vdb
+Copied carved_wood_fa154f66-299b-4ead-96fb-c7ae9d25c9b0.blend
+Copied old_wood_e93de564-3cb0-4750-9d7f-2048ec4b6e59.blend
+Copied wood_dark_1K_850c02b4-c836-43fc-b476-2b1f13f16075.blend
+Copied Compat.browser
+Copied 2K-bamboo_wall_2_ambientocclusion.png
+Copied 2K-bamboo_wall_2_basecolor.png
+Copied 2K-bamboo_wall_2_height.png
+Copied 2K-bamboo_wall_2_metallic.png
+Copied 2K-bamboo_wall_2_normal.png
+Copied 2K-bamboo_wall_2_roughness.png
+Copied 2K-padded_leather_1_ambientocclusion.png
+Copied 2K-padded_leather_1_basecolor.png
+Copied 2K-padded_leather_1_height.png
+Copied 2K-padded_leather_1_metallic.png
+Copied 2K-padded_leather_1_normal.png
+Copied 2K-padded_leather_1_roughness.png
+Copied 2K_stonewood_blue___polished___quartzite_ao.png
+Copied 2K_stonewood_blue___polished___quartzite_diffuse.png
+Copied 2K_stonewood_blue___polished___quartzite_displacement.png
+Copied 2K_stonewood_blue___polished___quartzite_normal.png
+Copied 2K_stonewood_blue___polished___quartzite_specular.png
+Copied AO.png
+Copied Diffuse.png
+Copied Displacement.png
+Copied Normal.png
+Copied Rough.png
+Copied RoughMetal.png
+Copied wood_planks_grey_nor_gl_4k.exr
+Copied wood_planks_grey_rough_4k.jpg
+Copied WoodFloor042_1K_AmbientOcclusion.png
+Copied WoodFloor042_1K_Color.png
+Copied WoodFloor042_1K_Displacement.png
+Copied WoodFloor042_1K_Metalness.png
+Copied WoodFloor042_1K_NormalDX.png
+Copied WoodFloor042_1K_NormalGL.png
+Copied WoodFloor042_1K_Roughness.png
+Copied Bricks076_4K_AmbientOcclusion.png
+Copied Bricks076_4K_Color.png
+Copied Bricks076_4K_Displacement.png
+Copied Bricks076_4K_NormalGL.png
+Copied Bricks076_4K_Roughness.png
+Copied Leather013_2K_Color.png
+Copied Leather013_2K_Displacement.png
+Copied Leather013_2K_NormalDX.png
+Copied Leather013_2K_NormalGL.png
+Copied Leather013_2K_Roughness.png
+Copied leather_red_02_ao_4k.jpg
+Copied leather_red_02_coll1_4k.png
+Copied leather_red_02_rough_4k.jpg
+Copied leather_red_coll2.jpg
+Copied Tiles059_4K_Color.png
+Copied Tiles059_4K_Displacement.png
+Copied Tiles059_4K_Metalness.png
+Copied Tiles059_4K_NormalDX.png
+Copied Tiles059_4K_NormalGL.png
+Copied Tiles059_4K_Roughness.png
+Copied Diffuse.bmp
+Copied Height.bmp
+Copied Metalic.bmp
+Copied Normal.bmp
+Copied smooth.bmp
+Copied DiffuseMap.bmp
+Copied HeightMap.bmp
+Copied NormalMap.bmp
+Copied Roughness.bmp
+Copied cctv.jpg
+Copied lake.jpg
+Copied Lake.webp
+Copied rock.jpg
+Copied Weeabo.png
+Copied wheel.jfif
+Copied Colour.jpg
+Copied Height.bmp
+Copied Normal.bmp
+Copied Wood066_2K_Color.jpg
+Copied Wood066_2K_Displacement.jpg
+Copied Wood066_2K_NormalDX.jpg
+Copied Wood066_2K_NormalGL.jpg
+Copied Wood066_2K_Roughness.jpg
+Copied Wood049_2K-PNG.usda
+Copied Wood049_2K-PNG.usdc
+Copied Wood049_2K_Color.png
+Copied Wood049_2K_Displacement.png
+Copied Wood049_2K_NormalDX.png
+Copied Wood049_2K_NormalGL.png
+Copied Wood049_2K_Roughness.png
+Copied Wood049_PREVIEW.jpg
+Copied Wood062_2K-PNG.usda
+Copied Wood062_2K-PNG.usdc
+Copied Wood062_2K_AmbientOcclusion.png
+Copied Wood062_2K_Color.png
+Copied Wood062_2K_Displacement.png
+Copied Wood062_2K_NormalDX.png
+Copied Wood062_2K_NormalGL.png
+Copied Wood062_2K_Roughness.png
+Copied Wood062_PREVIEW.jpg
+Copied BaseColor_sharpen.jpg
+Copied BaseColor_sharpen_1k.jpg
+Copied Normal_sharpen.jpg
+Copied Normal_sharpen_1k.jpg
+Copied Roughness_sharpen.jpg
+Copied Roughness_sharpen_1k.jpg
+Copied BaseColor_sharpen.jpg
+Copied BaseColor_sharpen_1k.jpg
+Copied Normal_sharpen.jpg
+Copied Normal_sharpen_1k.jpg
+Copied Roughness_sharpen.jpg
+Copied Roughness_sharpen_1k.jpg
+Copied BaseColor_sharpen.jpg
+Copied BaseColor_sharpen_1k.jpg
+Copied Normal_sharpen.jpg
+Copied Normal_sharpen_1k.jpg
+Copied Roughness_sharpen.jpg
+Copied Roughness_sharpen_1k.jpg
+Copied BaseColor_sharpen.jpg
+Copied BaseColor_sharpen_1k.jpg
+Copied Normal_sharpen.jpg
+Copied Normal_sharpen_1k.jpg
+Copied Roughness_sharpen.jpg
+Copied Roughness_sharpen_1k.jpg
+Copied Carved_wood_BaseColor.png
+Copied Carved_wood_Metallic.png
+Copied Carved_wood_Normal.png
+Copied Carved_wood_Roughness.png
+Copied Wood051_2K_Color.png
+Copied Wood051_2K_Normal.png
+Copied Wood051_2K_Roughness.png
+Copied wood10 diffuse 4k.jpg
+Copied wood10 normal 4k.jpg
+Copied wood10 roughness 4k.jpg
+Copied BaseColor_sharpen.png
+Copied Normal_sharpen.png
+Copied Roughness_sharpen.png
+Copied BaseColor_sharpen.png
+Copied Normal_sharpen.png
+Copied Roughness_sharpen.png
+Copied BaseColor_sharpen.png
+Copied Normal_sharpen.png
+Copied Roughness_sharpen.png
+Copied BaseColor_sharpen.png
+Copied Normal_sharpen.png
+Copied Normal_sharpen_1k.png
+Copied Roughness_sharpen.png

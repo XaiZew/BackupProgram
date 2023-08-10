@@ -1,0 +1,6 @@
+Directory C:\Users\xaize\Documents\BackupProgram\TargetFolder\directory1 already exists
+Directory C:\Users\xaize\Documents\BackupProgram\TargetFolder\directory1\directory2 already exists
+File test.txt is outdated
+File test2.txt is outdated
+File nestedfile.txt is outdated
+File d.txt is outdated

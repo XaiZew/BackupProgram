@@ -1,0 +1,6 @@
+C:\Users\xaize\Documents\BackupProgram\TargetFolder\directory1
+C:\Users\xaize\Documents\BackupProgram\TargetFolder\directory1\directory2
+File test.txt is outdated
+File test2.txt is outdated
+Copied nestedfile.txt
+Copied d.txt

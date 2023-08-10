@@ -1,0 +1,58 @@
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\.vscode already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\bin already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\Logs already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\obj already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\OriginalFolder already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\TargetFolder already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\bin\Debug already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\obj\Debug already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\OriginalFolder\directory1 already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\TargetFolder\directory1 already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\bin\Debug\net6.0 already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\obj\Debug\net6.0 already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\OriginalFolder\directory1\directory2 already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\TargetFolder\directory1\directory2 already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\bin\Debug\net6.0\ref already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\obj\Debug\net6.0\ref already exists
+[17/03/2022 16:25:47] Directory Z:\BackupProgram\obj\Debug\net6.0\refint already exists
+[17/03/2022 16:25:47] UpdatedBackupProgram.csproj
+[17/03/2022 16:25:47] Updatedprofiles.xml
+[17/03/2022 16:25:47] UpdatedProgram.cs
+[17/03/2022 16:25:47] UpdatedProgram.exe
+[17/03/2022 16:25:47] File launch.json is outdated or doesn't need updating
+[17/03/2022 16:25:47] File tasks.json is outdated or doesn't need updating
+[17/03/2022 16:25:47] File 25 02 2022 02 28 35.txt is outdated or doesn't need updating
+[17/03/2022 16:25:47] File BackupProgram.csproj.nuget.dgspec.json is outdated or doesn't need updating
+[17/03/2022 16:25:47] UpdatedBackupProgram.csproj.nuget.g.props
+[17/03/2022 16:25:47] UpdatedBackupProgram.csproj.nuget.g.targets
+[17/03/2022 16:25:47] File project.assets.json is outdated or doesn't need updating
+[17/03/2022 16:25:47] Updatedproject.nuget.cache
+[17/03/2022 16:25:47] File test.txt is outdated or doesn't need updating
+[17/03/2022 16:25:47] File test2.txt is outdated or doesn't need updating
+[17/03/2022 16:25:47] File test.txt is outdated or doesn't need updating
+[17/03/2022 16:25:47] File test2.txt is outdated or doesn't need updating
+[17/03/2022 16:25:47] File nestedfile.txt is outdated or doesn't need updating
+[17/03/2022 16:25:47] File nestedfile.txt is outdated or doesn't need updating
+[17/03/2022 16:25:47] UpdatedBackupProgram.deps.json
+[17/03/2022 16:25:47] UpdatedBackupProgram.dll
+[17/03/2022 16:25:47] UpdatedBackupProgram.exe
+[17/03/2022 16:25:47] UpdatedBackupProgram.pdb
+[17/03/2022 16:25:47] UpdatedBackupProgram.runtimeconfig.json
+[17/03/2022 16:25:47] File test.xml is outdated or doesn't need updating
+[17/03/2022 16:25:48] Updated.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+[17/03/2022 16:25:48] Updatedapphost.exe
+[17/03/2022 16:25:48] UpdatedBackupProgram.AssemblyInfo.cs
+[17/03/2022 16:25:48] UpdatedBackupProgram.AssemblyInfoInputs.cache
+[17/03/2022 16:25:48] UpdatedBackupProgram.assets.cache
+[17/03/2022 16:25:48] UpdatedBackupProgram.csproj.AssemblyReference.cache
+[17/03/2022 16:25:48] UpdatedBackupProgram.csproj.CoreCompileInputs.cache
+[17/03/2022 16:25:48] UpdatedBackupProgram.csproj.FileListAbsolute.txt
+[17/03/2022 16:25:48] UpdatedBackupProgram.dll
+[17/03/2022 16:25:48] UpdatedBackupProgram.GeneratedMSBuildEditorConfig.editorconfig
+[17/03/2022 16:25:48] UpdatedBackupProgram.genruntimeconfig.cache
+[17/03/2022 16:25:48] UpdatedBackupProgram.GlobalUsings.g.cs
+[17/03/2022 16:25:48] UpdatedBackupProgram.pdb
+[17/03/2022 16:25:48] File d.txt is outdated or doesn't need updating
+[17/03/2022 16:25:48] File d.txt is outdated or doesn't need updating
+[17/03/2022 16:25:48] UpdatedBackupProgram.dll
+[17/03/2022 16:25:48] UpdatedBackupProgram.dll
